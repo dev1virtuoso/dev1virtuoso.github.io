@@ -1,6 +1,6 @@
-# Repository for {Template} Project
+# Repository for Carson-We.github.io
 
-This GitHub repository serves as a central location for storing the code of my {template} project. The project is licensed under the Mozilla Public License Version 2.0.
+This GitHub repository serves as a central location for storing the code of my Carson-We.github.io. The project is licensed under the Mozilla Public License Version 2.0.
 
 ## License
 
@@ -14,7 +14,7 @@ This repository utilizes the MonoRepo approach, which involves integrating multi
 
 ## Getting Started
 
-To begin working with the {template} project, follow these steps:
+To begin working with the Carson-We.github.io, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -26,11 +26,11 @@ To begin working with the {template} project, follow these steps:
 
 3. Explore the directory, which contains the implementation of various {template} algorithms and techniques.
 
-4. Execute the scripts to run the {template} project on your own datasets or examples.
+4. Execute the scripts to run the Carson-We.github.io on your own datasets or examples.
 
 ## Contribution Guidelines
 
-Contributions to this {template} project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
+Contributions to this Carson-We.github.io are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
 
 - Fork the repository and create a new branch for your contributions.
 - Make your changes and thoroughly test them.
@@ -40,6 +40,6 @@ By contributing to this project, you agree to license your contributions under t
 
 ## Contact Information
 
-If you have any questions or suggestions regarding this {template} project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
+If you have any questions or suggestions regarding this Carson-We.github.io, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
 
 Thank you for your interest and contributions to the project!
