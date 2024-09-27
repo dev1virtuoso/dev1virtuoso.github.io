@@ -19,12 +19,12 @@ To begin working with the Carson-We.github.io, follow these steps:
 1. Clone the repository to your local machine:
 
    `
-   git clone https://github.com/Carson-We/{Template}.git
+   git clone https://github.com/Carson-We/Carson-We.github.io.git
    `
 
 2. Install any necessary dependencies as outlined in the project's documentation.
 
-3. Explore the directory, which contains the implementation of various {template} algorithms and techniques.
+3. Explore the directory, which contains the implementation of various Carson-We.github.io algorithms and techniques.
 
 4. Execute the scripts to run the Carson-We.github.io on your own datasets or examples.
 
@@ -43,3 +43,26 @@ By contributing to this project, you agree to license your contributions under t
 If you have any questions or suggestions regarding this Carson-We.github.io, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
 
 Thank you for your interest and contributions to the project!
+
+## Deployment
+
+### carson1125
+
+- [carson1125-alpha.github.io: my website(alpha version)(Obsolete version)](https://carson-we.github.io/Obsolete/Website/carson1125/carson1125-alpha.github.io/)
+- [carson1125-beta.github.io: my website(beta version)(Obsolete version)](https://carson-we.github.io/Obsolete/Website/carson1125/carson1125-beta.github.io/)
+- [carson1125.github.io: my website(Obsolete version)](https://carson-we.github.io/Obsolete/Website/carson1125/carson1125)
+- [carson1125: my website](https://carson-we.github.io/Website/carson1125/)
+
+### pess-unify
+
+- [pess-unify-beta.github.io: Unify website(beta version)(Obsolete version)](https://carson-we.github.io/Obsolete/Website/pess-unify/pess-unify-beta.github.io/)
+- [pess-unify.github.io: Unify website(Deployed by Carson Wu)(Obsolete version)](https://carson-we.github.io/Obsolete/Website/pess-unify/pess-unify.github.io/)
+- [pess-unify.github.io: Unify website(Deployed by pess-unify)](https://pess-unify.github.io)
+
+[self: my first website(Obsolete version)](https://carson-we.github.io/Obsolete/Website/Self/)
+
+### Utility
+
+- [Utility-alpha.github.io: my utility website(alpha version)(Obsolete version)](https://carson-we.github.io/Obsolete/Website/Utility/Utility-alpha.github.io/)
+- [Utility-beta.github.io: my utility website(beta version(Obsolete version)](https://carson-we.github.io/Obsolete/Website/Utility/Utility-beta.github.io/)
+- [Utility.github.io: my utility website(Obsolete version)](https://carson-we.github.io/Obsolete/Website/Utility/Utility.github.io/)
