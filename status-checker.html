@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Project Status Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+        }
+
+        h1 {
+            margin-bottom: .5rem;
+        }
+
+        .site {
+            margin-bottom: 1.5rem;
+        }
+
+        .status {
+            font-weight: bold;
+        }
+    </style>
+    <script>
+        function check(url, id) {
+            var img = new Image();
+            img.onload = function () {
+                document.getElementById(id).textContent = "200, OK";
+                document.getElementById(id).style.color = "green";
+            };
+            img.onerror = function () {
+                document.getElementById(id).textContent = "Error, Unable to reach";
+                document.getElementById(id).style.color = "red";
+            };
+            setTimeout(function () {
+                if (!img.complete) {
+                    img.onerror();
+                }
+            }, 7000);
+            img.src = url + "/favicon.ico?" + Math.random();
+        }
+        window.onload = function () {
+            check("https://robotech.hk", "status-rt");
+        };
+    </script>
+</head>
+
+<body>
+    <h1>Status Checker</h1>
+
+    <div class="site">
+        <h2>robotech.hk</h2>
+        <p>Status: <span id="status-rt" class="status">Checking…</span></p>
+    </div>
+</body>
+
+</html>
